@@ -1,0 +1,11 @@
+{
+    "name": "My First Chrome Plugin",
+    "version": "1.0.0",
+    "description": "This is Gunjan's first chrome plugin.",
+    "manifest_version": 3,
+    "author": "Gunjan Adya",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My First Chrome Plugin"
+    }
+}

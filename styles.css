@@ -1,0 +1,8 @@
+body {
+    background-color: pink;
+    padding: 50 px;
+  }
+h2,p {
+    color: red;
+    font-family: courier;
+  }
